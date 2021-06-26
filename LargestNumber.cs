@@ -21,7 +21,7 @@ namespace Interview_Program
             }
             else if (b > c)
             {
-                Console.WriteLine("a" + a + "is largest number");
+                Console.WriteLine("b" + b + "is largest number");
             }
             else
                Console.WriteLine("c" + c + "is largest number");
